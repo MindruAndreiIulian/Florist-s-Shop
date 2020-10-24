@@ -22,6 +22,7 @@ import Button from '@material-ui/core/Button';
 import ButtonGroup from '@material-ui/core/ButtonGroup';
 
 
+
 class Header  extends React.Component{
 
     constructor(props){
@@ -63,8 +64,8 @@ class Header  extends React.Component{
 
     
 render(){
-     const {search} = this.state  
-     const filteredProducts = this.findItemByName(search)
+    
+     
    
 
     return (
@@ -118,7 +119,7 @@ render(){
 
             {
                 this.props.user?
-                <Button onClick ={() => this.props.signOut()}>Delogare</Button>  
+                <Button onClick ={() => this.props.signOut()}><Link>Delogare</Link></Button>  
                 :<Button><Link to = "/login">Logare</Link></Button>
             }
 
@@ -169,45 +170,7 @@ render(){
         </Toolbar>
     </AppBar>
 
-        {/* <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                
-            <Link to = '/' className = "navbar-brand">Acasa</Link>
-            <Link to = '/about' className = "navbar-brand">Despre</Link>
-            {
-                this.props.user?
-                <button onClick ={() => this.props.signOut()} 
-                className = "header-button">Logout</button>  
-                :<Link to = '/login'  className = "navbar-brand">Login</Link>
-                
-            }
-            
-
-                <div className = "d-flex flex-column">
-                    <input 
-                        type = "text"
-                        name = "search"
-                        onChange = {(event) =>this.updateSearch(event)}
-                        />
-                    
-                    <div className = "d-flex flex-row align-items-center searchResult">
-                        <ul>
-
-                    {
-                        this.state.search ?
-                        filteredProducts.map(product =>{
-                            return(
-                                <div className = "border-bottom d-flex flex-row">
-                                    <img className = "result-image" src = {product.image} alt = "img"/>
-                                    <p>{product.name}</p>
-                                </div>
-                                )
-                            })
-                            :null
-                        }
-                        </ul>
-                    </div>
-                </div>
-            </nav> */}
+        
         </div>
 
 )}

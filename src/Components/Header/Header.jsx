@@ -59,10 +59,6 @@ class Header  extends React.Component{
               return result;
          }
         
-        
-    
-
-    
 render(){
     
      

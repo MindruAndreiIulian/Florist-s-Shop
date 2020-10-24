@@ -1,0 +1,22 @@
+.login-page {
+    margin-top: 18vh;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(243, 220, 220);
+}
+
+.login-page img {
+    margin-top: 20vh;
+    width: 200px;
+}
+.login-page h3 {
+    margin-top: 20vh;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+   
+}
+

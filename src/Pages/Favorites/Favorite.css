@@ -1,0 +1,17 @@
+.favorite-page svg {
+    cursor: pointer;
+}
+
+.favorite-page-container{
+    min-height:500px ;
+    margin-top:5%;
+}
+
+.favorite-page {
+    background-color: rgb(243, 220, 220);
+}
+
+.favorite-page h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}

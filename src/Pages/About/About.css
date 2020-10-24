@@ -1,0 +1,8 @@
+.container-about img{
+    border-radius:10px
+}
+
+.container-about{
+    background-color: rgb(243, 220, 220);
+    padding:20px;
+}

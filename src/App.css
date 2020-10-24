@@ -1,0 +1,17 @@
+body a {
+  color: black;
+ 
+}
+
+body a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+body h4{
+  font-family: 'Playfair Display', serif;
+}
+
+body *{
+  font-family: 'Playfair Display', sans-serif;
+}

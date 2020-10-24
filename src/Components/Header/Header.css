@@ -1,0 +1,36 @@
+.header{
+    margin-bottom: 18vh;
+   
+}
+
+
+
+
+header .logo {
+    width: 150px;
+    height: 130px;
+}
+
+
+header .logout:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.result-image{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.searchResult{
+    position: absolute;
+    display: block;
+    z-index: 9999999;
+    height: auto;
+    background-color: white;
+    top: 56.2px;
+    border:1px solid black;
+    border-radius: 5px;
+
+}
+

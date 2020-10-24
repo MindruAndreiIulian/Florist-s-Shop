@@ -1,0 +1,187 @@
+{
+    "toamna": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Crizanteme rosii",
+                "price": 7,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1566439934059-7c2da2781657?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+                "colour": "Rosu",
+                "description": "Crizantemele rosii sunt flori"
+            },
+            {
+                "id": 2,
+                "name": "Crizanteme albe",
+                "price": 8,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1588628566587-dbd176de94b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+                "colour": "Alb",
+                "description": "Crizanteme albe pentru doamne si domnisoare"
+            },
+            {
+                "id": 3,
+                "name": "Crizanteme galbene",
+                "price": 8,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1592226227046-de28383c7c8b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+                "colour": "Galben",
+                "description": "Foarte frumoase"}
+        ],
+        "image": "https://images.unsplash.com/photo-1554727433-c6a38c51534c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+        "name": "Colectia de toamna",
+        "description": "Cele mai frumoase flori de toamna!"
+    },
+    "trandafiri": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Trandafiri Rosii",
+                "price": 10,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1550593854-87edb352e3be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=277&q=80",
+                "colour": "Rosu",
+                "description": "Trandafirii rosii sunt simbolul dragostei"
+            },
+            {
+                "id": 5,
+                "name": "Trandafiri albi",
+                "price": 10,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1495231916356-a86217efff12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+                "colour": "Alb",
+                "description": "Trandafiri frumosi albi"
+            },
+            {
+                "id": 6,
+                "name": "Trandafiri roz",
+                "price": 10,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1497671922376-905a6487a5ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+                "colour": "Rox",
+                "description": "Trandafiri dragut roz"
+            },
+            {
+                "id": 7,
+                "name": "Trandafiri galbeni",
+                "price": 10,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1560628213-fe65b6a6d4dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+                "colour": "Galben",
+                "description": "Cei mai frumosi trandafiri galbeni"
+            }
+        ],
+        "image": "https://images.unsplash.com/photo-1557326540-e853d9e38511?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=947&q=80https://i.pinimg.com/originals/e0/45/1b/e0451bd5244e378be527224fcee82eba.jpg",
+        "name": "Trandafiri",
+        "description": "O multitudie de sortimente din cei mai frumosi trandafiri"
+    },
+    "ocazii": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Buchet mireasa mix",
+                "price": 50,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1569976088853-abf1c2cb282a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+                "colour": "Multicolor",
+                "description": "Un buchet de mirease format din trandafiri, lalele si flori decorative"
+            },
+            {
+                "id": 9,
+                "name": "Buchet mireasa",
+                "price": 40,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1574871786514-46e1680ea587?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+                "colour":"Roz",
+                "description": "Buchet de mireasa realizat cu orhidee si frunze de pin"
+            }
+        ],
+        "image": "https://images.unsplash.com/photo-1541314053190-1db8c88dc05a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80https://images.unsplash.com/photo-1600965876572-9958c342bf52?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80https://i.pinimg.com/originals/0f/36/82/0f3682446cfc1a8f6befdd345258a05e.jpg",
+        "name": "Ocazii speciale",
+        "description": "Dar si mai putin speciale"
+    },
+    "onomastica": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Buchet Sf Andrei",
+                "price": 70,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1526440546330-0b9c5e9807ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                "colour": "Multicolor",
+                "description": "Buchet traditional de flori de Sfantul Andrei"
+            },
+            {
+                "id": 11,
+                "name": "Buchet Sf Nicolae",
+                "price": 80,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1520497386035-8529108d6c6b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                "colour": "Alb",
+                "description": "Pentru Sf Nicolae"
+            }
+        ],
+        "image": "https://images.unsplash.com/photo-1596744186392-e3c6088abff6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=973&q=80",
+        "name": "Flori de onomastica",
+        "description": "Pentru orice sarbatoare"
+    },
+    "trandafiri criogenati": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Trandafir Albastru",
+                "price": 90,
+                "currency": "LEI",
+                "image": "https://cdni.floria.ro/images/products/img1/16311/thumbnails/flori-trandafir-criogenat-lavanda-in-cupola-35631.jpg",
+                "colour": "Albastru",
+                "description": "Trandafir albastru in cupola de sticla"
+            },
+            {
+                "id": 13,
+                "name": "Trandafir Roz",
+                "price": 110,
+                "currency": "LEI",
+                "image": "https://cdni.floria.ro/images/products/img1/16419/thumbnails/flori-trandafir-criogerat-roz-in-mini-cupola-35655.jpg",
+                "colour": "Roz",
+                "description": "Trandafir criogenat roz"
+            },
+            {
+                "id": 14,
+                "name": "Trandafir rosu",
+                "price": 95,
+                "currency": "LEI",
+                "image": "https://cdni.floria.ro/images/products/img1/16455/thumbnails/flori-trandafir-criogerat-rosu-in-mini-cupola-35635.jpg",
+                "colour": "Rosu",
+                "description": "Un trandafir special care nu se ofileste niciodata"
+            }
+        ],
+        "image": "https://images.unsplash.com/photo-1596654524120-2a72f7e335ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1005&q=80",
+        "name": "Trandafri criogentati",
+        "description": "Foarte frumosi si neperisabili"
+    },
+    "zodii": {
+        "items": [
+            {
+                "id": 15,
+                "name": "Crizanteme leu",
+                "price": 8,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1585337913966-114ba3cf1f80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80",
+                "colour": "Roz",
+                "description": "Potrivit pentru persoanele din zodia leu."
+            },
+            {
+                "id": 16,
+                "name": "Trandafiri leu",
+                "price": 60,
+                "currency": "LEI",
+                "image": "https://images.unsplash.com/photo-1535705084432-300f749c9dcb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                "colour": "Portocaliu",
+                "description": "Pentru zodia leu"
+            }
+        ],
+        "image": "https://images.unsplash.com/photo-1573125364125-a78812eac457?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80https://i.pinimg.com/736x/91/1f/5c/911f5cb6c0c9cbd656ab09b9237a8077.jpg",
+        "name": "Flori pentru zodii",
+        "description": "Alege floarea perfecta pentru zodia ta"
+    }
+}

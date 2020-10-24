@@ -1,0 +1,95 @@
+.Home {
+    text-align: center;
+  }
+   
+
+
+.carousel-overlay{
+    z-index:999999;
+    bottom:7px;
+    color:white;
+    width:100%;
+    position:absolute;
+    background: rgb(0,0,0,0.5);
+}   
+
+
+
+.carousel-item{
+    font-family: 'Rubik', sans-serif;
+}
+.carousel-overlay p{
+    font-family: 'Gruppo', cursive;
+    font-size:50px;
+    padding:10px;
+}
+
+.carousel-container{
+    position: absolute;
+    z-index:9999999;
+    top:70px;
+    right:10px;
+}
+
+
+.carousel-container p{
+    
+    color:rgb(139, 0, 104);
+    font-size: 70px;
+    background:rgb(255, 192, 203,0.2);
+    padding:10px;
+    border-radius: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    
+}
+
+.containers {
+    position: relative;
+    max-width: 1150px; 
+    margin: 0 auto; 
+    
+  }
+  
+
+.containers .content {
+    position: absolute; 
+    bottom: 0;  
+    background: rgba(0, 0, 0, 0.5); 
+    color: white; 
+    width: 100%; 
+    height: 100%;
+    padding: 20px;
+    border-radius: 8px; 
+  }
+
+
+ 
+  .slides .slick-prev,
+  .slides .slick-next {
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+    
+    
+  }
+  
+.carousel-img{
+    width: 20vh;
+    
+}
+  
+  .slides {
+    position: relative;
+  }
+  
+
+  
+  .slides .slick-prev {
+    left: 5%;
+    
+  }
+  
+  .slides .slick-next {
+    right: 5%;
+  }
+  

@@ -1,0 +1,20 @@
+.cart-page img {
+    max-height: 110px;
+}
+
+.cart-page svg {
+    cursor: pointer;
+}
+
+.cart-page-container{
+    min-height:500px ;
+}
+
+.cart-page {
+    background-color: rgb(243, 220, 220);
+}
+
+.cart-page h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
